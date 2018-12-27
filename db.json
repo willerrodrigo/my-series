@@ -1,0 +1,51 @@
+{
+  "series": [
+    {
+      "name": "sad",
+      "status": "watched",
+      "genre": "Comédia",
+      "comments": "dasd",
+      "id": 1
+    },
+    {
+      "name": "aa",
+      "status": "watched",
+      "genre": "Comédia",
+      "comments": "aa",
+      "id": 2
+    },
+    {
+      "name": "sdds",
+      "status": "watched",
+      "genre": "Comédia",
+      "comments": "sdsd",
+      "id": 3
+    },
+    {
+      "name": "sfsf",
+      "status": "watched",
+      "genre": "Comédia",
+      "comments": "dqwdq",
+      "id": 4
+    },
+    {
+      "name": "sss",
+      "status": "watched",
+      "genre": "Comédia",
+      "comments": "",
+      "id": 5
+    },
+    {
+      "id": 6,
+      "name": "sdsdsd",
+      "status": "watched",
+      "genre": "Comédia",
+      "comments": "fffzx"
+    }
+  ],
+  "genres": [
+    "Comédia",
+    "Drama",
+    "Ação"
+  ]
+}
